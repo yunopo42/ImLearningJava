@@ -1,0 +1,35 @@
+Tam SAyılar:
+    -Byte
+    -Short
+    -Integer
+    -Long
+Ondalıklı SAyılar:
+    -double
+    -float
+
+
+Byte:
+    -8bit ve  max 127 min -128 alır
+
+Short
+    -16bit ve max 32.767 min 32.768
+
+Integer
+    -32 bit ve max  2.147.483 min -2.147.483
+
+Long
+    -64 bit ve max çok min cokk değer alır.
+
+---------------------
+float
+    -32 bittir. ondalıklı sayılar için kullanılır. Hız ve bellek için kullanılır.daha az yer kaplar
+
+double
+    -64 bittir daha büyük ondalıklı sayılarda kullanılır. daha çok yer kaplar ,yavaştır.
+------------------------------------
+
+Char
+    -16bittir. Karakterleri saklar içerisinde.
+
+Boolean 
+    -Mantıksal değerleri içerisinde saklar. True False gibi
